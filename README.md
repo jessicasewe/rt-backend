@@ -4,6 +4,9 @@ Welcome to the **RT Backend**! This is a Drupal-based backend project, container
 
 ---
 
+## Routes to Access
+api.therethread.com/user/login
+
 ## 📁 Project Structure
 
 ```
